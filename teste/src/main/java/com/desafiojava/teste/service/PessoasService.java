@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.desafiojava.teste.entity.Endereco;
 import com.desafiojava.teste.entity.Pessoa;
-import com.desafiojava.teste.repository.EnderecoRepository;
 import com.desafiojava.teste.repository.PessoaRepository;
 
 import jakarta.transaction.Transactional;
